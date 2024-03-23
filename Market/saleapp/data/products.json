@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "IPhone 12",
+    "price": 12000000,
+    "image": "static/image/IPhone/iphone3.jpg"
+  },
+  {
+    "id": 2,
+    "name": "SamSung S23 Ultra",
+    "price": 16000000,
+    "image": "static/image/IPhone/iphone3.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Oppo A71",
+    "price": 5000000,
+    "image": "static/image/IPhone/iphone3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Laptop 1",
+    "price": 12000000,
+    "image": "static/image/Laptop/laptop1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Laptop 2",
+    "price": 16000000,
+    "image": "static/image/Laptop/laptop2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Laptop 3",
+    "price": 5000000,
+    "image": "static/image/Laptop/laptop3.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Tablet 1",
+    "price": 12000000,
+    "image": "static/image/IPhone/iphone3.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Tablet 2",
+    "price": 16000000,
+    "image": "static/image/IPhone/iphone3.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tablet 3",
+    "price": 5000000,
+    "image": "static/image/IPhone/iphone3.jpg"
+  }
+]
